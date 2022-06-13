@@ -1,0 +1,17 @@
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.csproj.AssemblyReference.cache
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.AssemblyInfoInputs.cache
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.AssemblyInfo.cs
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\bin\Debug\net6.0\Shops.Persistence.deps.json
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\bin\Debug\net6.0\Shops.Persistence.runtimeconfig.json
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\bin\Debug\net6.0\Shops.Persistence.dll
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\bin\Debug\net6.0\Shops.Persistence.pdb
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\bin\Debug\net6.0\Shops.Domain.dll
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\bin\Debug\net6.0\Shops.Domain.pdb
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.csproj.CopyComplete
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.dll
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\refint\Shops.Persistence.dll
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.pdb
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\Shops.Persistence.genruntimeconfig.cache
+C:\Users\Bayram Eren\source\repos\src\Shops.Persistence\obj\Debug\net6.0\ref\Shops.Persistence.dll

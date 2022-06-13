@@ -1,0 +1,12 @@
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\bin\Debug\net6.0\Shops.Domain.deps.json
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\bin\Debug\net6.0\Shops.Domain.dll
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\bin\Debug\net6.0\Shops.Domain.pdb
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\Shops.Domain.csproj.AssemblyReference.cache
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\Shops.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\Shops.Domain.AssemblyInfoInputs.cache
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\Shops.Domain.AssemblyInfo.cs
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\Shops.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\Shops.Domain.dll
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\refint\Shops.Domain.dll
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\Shops.Domain.pdb
+C:\Users\Bayram Eren\source\repos\Shops\src\Shops.Domain\obj\Debug\net6.0\ref\Shops.Domain.dll

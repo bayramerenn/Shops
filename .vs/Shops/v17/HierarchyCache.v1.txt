@@ -1,0 +1,395 @@
+﻿++Solution 'Shops' ‎(5 of 5 projects)
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Shops.Domain
+i:{6a393ea7-f8e6-4ae3-98a4-63700e78a60d}:Shops.Domain
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.domain\shops.domain.csproj
+++Dependencies
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:>330
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:>674
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:>547
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:>390
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:>232
+i:{19265733-38a9-4745-9d85-af644008e1ad}:>1130
+++Common
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\common\
+++BaseEntity.cs
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\common\baseentity.cs
+++BaseEntityDate.cs
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\common\baseentitydate.cs
+++Entities
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\entities\
+++CurrentAccount.cs
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\entities\currentaccount.cs
+++CurrentAccountType.cs
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\entities\currentaccounttype.cs
+++Discount.cs
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\entities\discount.cs
+++Invoice.cs
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\entities\invoice.cs
+++Enums
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\enums\
+++CurrentAccountTypeEnum.cs
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\enums\currentaccounttypeenum.cs
+++DiscountPerType.cs
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\enums\discountpertype.cs
+++Analyzers
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:analyzers
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:analyzers
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:analyzers
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:analyzers
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:analyzers
+i:{19265733-38a9-4745-9d85-af644008e1ad}:analyzers
+++Frameworks
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:frameworks
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:frameworks
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:frameworks
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:frameworks
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:frameworks
+i:{19265733-38a9-4745-9d85-af644008e1ad}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{19265733-38a9-4745-9d85-af644008e1ad}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{19265733-38a9-4745-9d85-af644008e1ad}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{19265733-38a9-4745-9d85-af644008e1ad}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{59ff1901-d741-4021-a764-3a83f051cd09}:c:\users\bayram eren\source\repos\shops\src\shops.domain\microsoft.netcore.app
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\microsoft.netcore.app
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\microsoft.netcore.app
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\microsoft.netcore.app
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:c:\users\bayram eren\source\repos\shops\src\shops.infrastructure\microsoft.netcore.app
+i:{19265733-38a9-4745-9d85-af644008e1ad}:c:\users\bayram eren\source\repos\shops\test\shops.application.unittest\microsoft.netcore.app
+++Shops.API
+i:{6a393ea7-f8e6-4ae3-98a4-63700e78a60d}:Shops.API
+++Connected Services 
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:>675
+++Properties
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\properties\
+++Controllers
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\controllers\
+++CurrentAccountController.cs
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\controllers\currentaccountcontroller.cs
+++CurrentTypeControllerController.cs
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\controllers\currenttypecontrollercontroller.cs
+++DiscountController.cs
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\controllers\discountcontroller.cs
+++InvoiceController.cs
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\controllers\invoicecontroller.cs
+++appsettings.Development.json
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\appsettings.development.json
+++appsettings.json
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\appsettings.json
+++Program.cs
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\program.cs
+++No service dependencies discovered
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:>676
+++Packages
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:packages
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:packages
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:packages
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:packages
+i:{19265733-38a9-4745-9d85-af644008e1ad}:packages
+++Projects
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:projects
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:projects
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:projects
+++launchSettings.json
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\properties\launchsettings.json
+++Microsoft.AspNetCore.Analyzers
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.api\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:>687
+++Swashbuckle.AspNetCore (6.3.1)
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:>688
+++Shops.Application
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.application\shops.application.csproj
+i:{6a393ea7-f8e6-4ae3-98a4-63700e78a60d}:Shops.Application
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.application\shops.application.csproj
+++Shops.Infrastructure
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.infrastructure\shops.infrastructure.csproj
+i:{6a393ea7-f8e6-4ae3-98a4-63700e78a60d}:Shops.Infrastructure
+++Shops.Persistence
+i:{84cab2e8-db59-4bb9-ad50-28a9f6d3718d}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\shops.persistence.csproj
+i:{6a393ea7-f8e6-4ae3-98a4-63700e78a60d}:Shops.Persistence
+++Commons
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\commons\
+++BaseResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\commons\baseresponse.cs
+++DiscountContasts.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\commons\discountcontasts.cs
+++Dtos
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\dtos\
+++CurrentAccountDto.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\dtos\currentaccountdto.cs
+++CurrentAccountTypeDto.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\dtos\currentaccounttypedto.cs
+++DiscountDto.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\dtos\discountdto.cs
+++InvoiceDto.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\dtos\invoicedto.cs
+++InvoiceListDto.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\dtos\invoicelistdto.cs
+++Exceptions
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\exceptions\
+++Contants.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\exceptions\contants.cs
+++ErrorHandlingMiddleware.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\exceptions\errorhandlingmiddleware.cs
+++RestException.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\exceptions\restexception.cs
+++Features
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\
+++Commands
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\
+++CurrentAccounts
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\currentaccounts\
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounts\
+++CreateCurrAcc
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\currentaccounts\createcurracc\
+++CreateCurrAccHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\currentaccounts\createcurracc\createcurracchandler.cs
+++CreateCurrAccRequest.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\currentaccounts\createcurracc\createcurraccrequest.cs
+++CreateCurrAccResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\currentaccounts\createcurracc\createcurraccresponse.cs
+++Invoices
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\invoices\
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\invoices\
+++CreateInvoice
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\invoices\createinvoice\
+++CreateInvoiceHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\invoices\createinvoice\createinvoicehandler.cs
+++CreateInvoiceRequest.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\invoices\createinvoice\createinvoicerequest.cs
+++CreateInvoiceResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\invoices\createinvoice\createinvoiceresponse.cs
+++Queries
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\
+++GetAllCurrentAccounts
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounts\getallcurrentaccounts\
+++GetAllCurrentAccountHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounts\getallcurrentaccounts\getallcurrentaccounthandler.cs
+++GetAllCurrentAccountResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounts\getallcurrentaccounts\getallcurrentaccountresponse.cs
+++GetByIdCurrentAccount
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounts\getbyidcurrentaccount\
+++GetByIdCurrentAccountHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounts\getbyidcurrentaccount\getbyidcurrentaccounthandler.cs
+++GetByIdCurrentAccountRequest.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounts\getbyidcurrentaccount\getbyidcurrentaccountrequest.cs
+++GetByIdCurrentAccountResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounts\getbyidcurrentaccount\getbyidcurrentaccountresponse.cs
+++CurrentAccountTypes
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounttypes\
+++GetAllCurrentAccountTypeHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounttypes\getallcurrentaccounttypehandler.cs
+++GetAllCurrentAccountTypeResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\currentaccounttypes\getallcurrentaccounttyperesponse.cs
+++Discounts
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\discounts\
+++GetAllDiscounts
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\discounts\getalldiscounts\
+++GetAllDiscountsHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\discounts\getalldiscounts\getalldiscountshandler.cs
+++GetAllDiscountsResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\discounts\getalldiscounts\getalldiscountsresponse.cs
+++GetAllInvoices
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\invoices\getallinvoices\
+++GetAllInvoicesHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\invoices\getallinvoices\getallinvoiceshandler.cs
+++GetAllInvoicesResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\invoices\getallinvoices\getallinvoicesresponse.cs
+++GetByIdInvoice
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\invoices\getbyidinvoice\
+++GetByIdInvoiceHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\invoices\getbyidinvoice\getbyidinvoicehandler.cs
+++GetByIdInvoiceRequest.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\invoices\getbyidinvoice\getbyidinvoicerequest.cs
+++GetByIdInvoiceResponse.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\queries\invoices\getbyidinvoice\getbyidinvoiceresponse.cs
+++Handler
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\handler\
+++AffliateDiscountHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\handler\affliatediscounthandler.cs
+++DiscountHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\handler\discounthandler.cs
+++EmployeeDiscountHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\handler\employeediscounthandler.cs
+++FoldDiscount.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\handler\folddiscount.cs
+++NotDiscountHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\handler\notdiscounthandler.cs
+++OldCustomerDiscountHandler.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\handler\oldcustomerdiscounthandler.cs
+++Mapping
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\mapping\
+++MappingProfile.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\mapping\mappingprofile.cs
+++Repositories
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\
+++Reads
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\reads\
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\reads\
+++ICurrentAccountReadRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\reads\icurrentaccountreadrepository.cs
+++ICurrentAccountTypeReadRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\reads\icurrentaccounttypereadrepository.cs
+++IDiscountReadRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\reads\idiscountreadrepository.cs
+++IInvoiceReadRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\reads\iinvoicereadrepository.cs
+++Writes
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\writes\
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\writes\
+++ICurrentAccountWriteRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\writes\icurrentaccountwriterepository.cs
+++IDiscountWriteRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\writes\idiscountwriterepository.cs
+++IInvoiceWriteRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\writes\iinvoicewriterepository.cs
+++IReadRepostitory.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\ireadrepostitory.cs
+++IRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\irepository.cs
+++IWriteRepository.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\repositories\iwriterepository.cs
+++DependencyInjection.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\dependencyinjection.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:>705
+++MediatR (10.0.1)
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:>706
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:>707
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:>708
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:>704
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:>722
+++Context
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\context\
+++Migrations
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\migrations\
+++CurrentAccountReadRepository.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\reads\currentaccountreadrepository.cs
+++CurrentAccountTypeReadRepository.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\reads\currentaccounttypereadrepository.cs
+++DiscountReadRepository.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\reads\discountreadrepository.cs
+++InvoiceReadRepository.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\reads\invoicereadrepository.cs
+++CurrentAccountWriteRepository.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\writes\currentaccountwriterepository.cs
+++InvoiceWriteRepository.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\writes\invoicewriterepository.cs
+++ReadRepository.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\readrepository.cs
+++WriteRepository.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\repositories\writerepository.cs
+++Configuration.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\configuration.cs
+++DependencyInjections.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\dependencyinjections.cs
+++ShopsContextFactory.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\shopscontextfactory.cs
+++ShopsDbContext.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\context\shopsdbcontext.cs
+++20220610121337_InvoiceAddColumnGrocery.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\migrations\20220610121337_invoiceaddcolumngrocery.cs
+++20220611123928_CurrenAccountAddColumnIsAffiliate.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\migrations\20220611123928_currenaccountaddcolumnisaffiliate.cs
+++ShopsDbContextModelSnapshot.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\migrations\shopsdbcontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:>723
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:>726
+++Microsoft.Extensions.Configuration (6.0.0)
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:>725
+++Microsoft.Extensions.Configuration.Json (6.0.0)
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:>724
+++20220610121337_InvoiceAddColumnGrocery.Designer.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\migrations\20220610121337_invoiceaddcolumngrocery.designer.cs
+++20220611123928_CurrenAccountAddColumnIsAffiliate.Designer.cs
+i:{2beeb995-e6b7-4258-a91f-f326ea011ccd}:c:\users\bayram eren\source\repos\shops\src\shops.persistence\migrations\20220611123928_currenaccountaddcolumnisaffiliate.designer.cs
+++Messages.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\commons\messages.cs
+++FluentValidation.DependencyInjectionExtensions (11.0.3)
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:>1090
+++CreateCurrentAccountValidator.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\currentaccounts\createcurracc\createcurrentaccountvalidator.cs
+++CreateInvoiceValidator.cs
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:c:\users\bayram eren\source\repos\shops\src\shops.application\features\commands\invoices\createinvoice\createinvoicevalidator.cs
+++FluentValidation.AspNetCore (11.0.3)
+i:{dd162b78-07ac-4242-9674-493eb00b5bc4}:>1095
+++NewFolder
+++Filters
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:c:\users\bayram eren\source\repos\shops\src\shops.infrastructure\filters\
+++ValidationFilter.cs
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:c:\users\bayram eren\source\repos\shops\src\shops.infrastructure\filters\validationfilter.cs
+++Microsoft.AspNetCore.Mvc.Abstractions (2.2.0)
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:>1106
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{2fe4b21e-66bd-4b5e-8f76-b2d2fe0b4aa4}:>1107
+++NewFolder1
+++test
+i:{00000000-0000-0000-0000-000000000000}:test
+++Solution 'Shops' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:Shops.sln
+++Shops.Application.UnitTest
+i:{ae229ae9-7ef1-419b-baaf-5881113e4191}:Shops.Application.UnitTest
+++UnitTest1.cs
+i:{19265733-38a9-4745-9d85-af644008e1ad}:c:\users\bayram eren\source\repos\shops\test\shops.application.unittest\unittest1.cs
+++C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++coverlet.collector (3.1.0)
+i:{19265733-38a9-4745-9d85-af644008e1ad}:>1140
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{19265733-38a9-4745-9d85-af644008e1ad}:>1137
+++NUnit (3.13.2)
+i:{19265733-38a9-4745-9d85-af644008e1ad}:>1138
+++NUnit3TestAdapter (4.0.0)
+i:{19265733-38a9-4745-9d85-af644008e1ad}:>1139
